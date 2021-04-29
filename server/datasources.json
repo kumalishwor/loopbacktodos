@@ -1,0 +1,19 @@
+{
+  "mongoDS": {
+    "name": "mongoDS",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  },
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "todo",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
